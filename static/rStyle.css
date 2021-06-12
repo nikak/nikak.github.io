@@ -23,6 +23,10 @@ body h1,h2{
 }
 /* =Header
 ----------------------------------------------- */
+a.navbar-test {
+	color: #888 !important;
+	font-family: 'Oswald', Helvetica, Arial, sans-serif;
+}
 a.navbar-brand {
 	color: #666 !important;
 	font-family: 'Oswald', Helvetica, Arial, sans-serif;
